@@ -1,0 +1,10 @@
+{
+  "high_within_var": 0.037284606542342745,
+  "high_between_var": 13.213663503469434,
+  "high_separation": 354.3998766478708,
+  "low_within_var": 0.2973831763634315,
+  "acc_high_linear_probe": 0.6666666666666666,
+  "acc_low_linear_probe": 0.85,
+  "n_classes": 5,
+  "n_samples": 200
+}
